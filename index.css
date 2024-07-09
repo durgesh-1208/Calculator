@@ -1,9 +1,6 @@
 *{
-    
     outline: 1px solid rebeccapurple;
 }
-
-
 .super{
     display: flex;
     justify-content: center;
